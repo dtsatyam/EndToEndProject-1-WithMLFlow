@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ee393adf01614ff38d77dc794c54e473/artifacts
+end_time: 1707321142085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee393adf01614ff38d77dc794c54e473
+run_name: sincere-hare-703
+run_uuid: ee393adf01614ff38d77dc794c54e473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707321138748
+status: 4
+tags: []
+user_id: dtsat

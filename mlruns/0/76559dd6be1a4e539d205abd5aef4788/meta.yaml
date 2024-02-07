@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/76559dd6be1a4e539d205abd5aef4788/artifacts
+end_time: 1707318458345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76559dd6be1a4e539d205abd5aef4788
+run_name: debonair-pug-338
+run_uuid: 76559dd6be1a4e539d205abd5aef4788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707318455086
+status: 4
+tags: []
+user_id: dtsat

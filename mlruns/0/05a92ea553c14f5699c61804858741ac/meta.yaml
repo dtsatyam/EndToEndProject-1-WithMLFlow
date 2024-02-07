@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/05a92ea553c14f5699c61804858741ac/artifacts
+end_time: 1707321021737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05a92ea553c14f5699c61804858741ac
+run_name: amazing-dog-838
+run_uuid: 05a92ea553c14f5699c61804858741ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707321018088
+status: 4
+tags: []
+user_id: dtsat
